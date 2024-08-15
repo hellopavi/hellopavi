@@ -13,23 +13,23 @@ In addition to AI, I have a strong love for **physics**, which fuels my curiosit
 
 - **Languages**: Python, Java, JavaScript
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Deep Learning**: TensorFlow, Keras, PyTorch
-- **Computer Vision**: OpenCV, YOLO, SSD
-- **Web Development**: HTML, CSS, JavaScript, PHP
-- **Tools**: Git, GitHub, Visual Studio Code, Jupyter Notebook
+- **Deep Learning**: TensorFlow, Keras
+- **Computer Vision**: OpenCV
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools**: Git, GitHub, Visual Studio Code, Jupyter Notebook , Colab
 
 ### 🧑‍💻 My Projects
 
 Here are some of the projects I've been working on:
 
-- **[Machine Learning Projects](https://github.com/yourusername/machine_learning_projects)**: A collection of machine learning projects focusing on different algorithms and applications.
-- **[Deep Learning Projects](https://github.com/yourusername/deep_learning_projects)**: Deep learning projects ranging from simple neural networks to complex models.
-- **[Computer Vision Projects](https://github.com/yourusername/computer_vision_projects)**: Projects that involve detecting and recognizing objects, faces, and other visual elements.
+- **[Machine Learning Projects](https://github.com/hellopavi/machine_learning_projects)**: A collection of machine learning projects focusing on different algorithms and applications.
+- **[Deep Learning Projects](https://github.com/hellopavi/deep_learning_projects)**: Deep learning projects ranging from simple neural networks to complex models.
+- **[Computer Vision Projects](https://github.com/hellopavi/opencv_projects)**: Projects that involve detecting and recognizing objects, faces, and other visual elements.
 
 ### 🔭 What I’m Currently Working On
 
-- Enhancing my skills in **reinforcement learning**.
-- Working on a new project that combines AI and physics to solve real-world problems.
+- Enhancing my skills in **Generative AI**.
+- Working on Machine learning projects .
 - Collaborating with fellow AI enthusiasts on open-source projects.
 
 ### 🌱 What I’m Learning
@@ -40,9 +40,9 @@ Here are some of the projects I've been working on:
 
 ### 📫 How to Reach Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: your.email@example.com
+- **LinkedIn**: [hellopavi](https://www.linkedin.com/in/hellopavi)
+- **Twitter**: [hellopavi](https://twitter.com/hellopavi)
+- **Email**: pavithranofficial1@gmail.com
 
 ### 💬 Let's Connect
 
@@ -51,14 +51,14 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hellopavie&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-    <a href="https://github.com/yourusername?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+    <a href="https://github.com/hellopavi?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellopavi&layout=compact&theme=radical" alt="Top Languages">
     </a>
 </p>
 
-<p align="center">⭐️ From [Your Name](https://github.com/yourusername)</p>
+<p align="center">⭐️ From [Pavithran](https://github.com/hellopavi) </p>
 
