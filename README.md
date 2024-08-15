@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Pavithran 👋</h1>
-<h3 align="center">Artificial Intelligence Enthusiast | Machine Learning Practitioner | Physics Lover</h3>
+<h3 align="center">Engineer with a Passion for AI & Physics | Building AI-Driven Solutions</h3>
 
 
 ---
@@ -34,9 +34,9 @@ Here are some of the projects I've been working on:
 
 ### 🌱 What I’m Learning
 
-- Advanced techniques in **deep learning**.
-- Quantum mechanics and its applications in computing.
-- Web services and APIs for AI applications.
+- Advanced techniques in **Machine Learning**.
+- Cloud computing and Computer networks
+- Web services and APIs for AI application
 
 ### 📫 How to Reach Me
 
@@ -51,7 +51,7 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hellopavie&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hellopavi&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
