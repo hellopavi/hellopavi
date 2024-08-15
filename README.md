@@ -2,7 +2,7 @@
 <h3 align="center">Artificial Intelligence Enthusiast | Machine Learning Practitioner | Physics Lover</h3>
 
 
-
+---
 ### About Me
 
 I am deeply passionate about **Artificial Intelligence**, having started my journey with free resources and gradually building my expertise. My focus lies in developing practical solutions in **machine learning**, **deep learning**, and **computer vision**. Through consistent project work, I have honed my skills in these areas, contributing to a growing portfolio of AI-driven applications.
