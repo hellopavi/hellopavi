@@ -1,16 +1,7 @@
 <h1 align="center">Hi , I'm Pavithran 👋</h1>
 <h3 align="center">Artificial Intelligence Enthusiast | Machine Learning Practitioner | Physics Lover</h3>
 
-<p align="center">
-    <a href="https://github.com/hellopavi?tab=followers">
-        <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://github.com/hellopavi?tab=repositories">
-        <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="GitHub Stars">
-    </a>
-</p>
 
----
 
 ### About Me
 
