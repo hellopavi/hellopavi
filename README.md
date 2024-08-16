@@ -60,7 +60,7 @@ Iâ€™m always open to discussing AI, physics, and potential collaborations. Donâ€
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/hellopavi">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran's Activity Graph"/>
   </a>
 </p>
