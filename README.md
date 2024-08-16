@@ -50,9 +50,7 @@ Iâ€™m always open to discussing AI, physics, and potential collaborations. Donâ€
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hellopavi&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+
 
 <p align="center">
     <a href="https://github.com/hellopavi?tab=repositories">
@@ -61,11 +59,8 @@ Iâ€™m always open to discussing AI, physics, and potential collaborations. Donâ€
 </p>
 
 <p align="center">
-  <a href="https://github.com/hellopavi">
-    <img src="https://komarev.com/ghpvc/?username=hellopavi&color=blue" alt="Profile Views"/>
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=hellopavi&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
 
 <p align="center">
   <a href="https://github.com/hellopavi">
