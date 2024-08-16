@@ -66,11 +66,6 @@ Iâ€™m always open to discussing AI, physics, and potential collaborations. Donâ€
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hellopavi">
-    <img src="https://github-readme-stats.vercel.app/api?username=hellopavi&show_icons=true&theme=radical" alt="Pavithran's GitHub Stats"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/hellopavi">
