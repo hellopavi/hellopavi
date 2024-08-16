@@ -60,6 +60,7 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
     </a>
 </p>
 
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=dracula)
 
 <h1 align="center">Hi there, I'm Pavithran 👋</h1>
 
