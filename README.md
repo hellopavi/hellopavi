@@ -60,11 +60,33 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
     </a>
 </p>
 
+
+<h1 align="center">Hi there, I'm Pavithran 👋</h1>
+
 <p align="center">
   <a href="https://github.com/hellopavi">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran Activity Graph"/>
+    <img src="https://komarev.com/ghpvc/?username=hellopavi&color=blue" alt="Profile Views"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/hellopavi">
+    <img src="https://github-readme-stats.vercel.app/api?username=hellopavi&show_icons=true&theme=radical" alt="Pavithran's GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hellopavi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hellopavi&theme=radical" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hellopavi">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran's Activity Graph"/>
+  </a>
+</p>
+
 
 <p align="center">⭐️ From [Pavithran](https://github.com/hellopavi) </p>
 
