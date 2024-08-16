@@ -59,9 +59,10 @@ Iâ€™m always open to discussing AI, physics, and potential collaborations. Donâ€
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellopavi&layout=compact&theme=radical" alt="Top Languages">
     </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/hellopavi">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran's Activity Graph"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran Activity Graph"/>
   </a>
 </p>
 
