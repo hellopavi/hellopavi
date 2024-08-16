@@ -60,10 +60,6 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
     </a>
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=dracula)
-
-<h1 align="center">Hi there, I'm Pavithran 👋</h1>
-
 <p align="center">
   <a href="https://github.com/hellopavi">
     <img src="https://komarev.com/ghpvc/?username=hellopavi&color=blue" alt="Profile Views"/>
@@ -82,11 +78,6 @@ I’m always open to discussing AI, physics, and potential collaborations. Don�
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/hellopavi">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hellopavi&theme=dracula" alt="Pavithran's Activity Graph"/>
-  </a>
-</p>
 
 
 <p align="center">⭐️ From [Pavithran](https://github.com/hellopavi) </p>
